@@ -1,2 +1,2 @@
 # corona-monitor
-Api for monitoring Covid-19
+REST Api for monitoring Covid-19
