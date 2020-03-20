@@ -33,5 +33,5 @@ func main() {
 	// Get Information History Corona Virus By Country
 	e.GET("/corona/history/:country", action.HistoryByCountry)
 
-	e.Logger.Fatal(e.Start(":80"))
+	e.Logger.Fatal(e.Start(":8080"))
 }
